@@ -1,8 +1,4 @@
-# Development and Usage
+⚠️ Note on project status:
+This project was originally built using a proprietary enterprise framework (uuApp Framework / uuDigital-twin Construction Kit). Due to its closed ecosystem and revoked access, the original runtime environment is no longer available.
 
-See following guidelines:
-
-- [uuAppg01Devkit Documentation](https://uuos9.plus4u.net/uu-bookkitg01-main/78462435-e884539c8511447a977c7ff070e7f2cf/book)
-- [uuSubApp Instance Descriptor](https://uuos9.plus4u.net/uu-bookkitg01-main/78462435-289fcd2e11d34f3e9b2184bedb236ded/book/page?code=uuSubAppInstanceDescriptor)
-- [uuApp Server Project (NodeJs)](https://uuos9.plus4u.net/uu-bookkitg01-main/78462435-2590bf997d264d959b9d6a88ee1d0ff5/book/page?code=uuAppStyleGuide_00)
-- [uuApp Client Project (UU5)](https://uuos9.plus4u.net/uu-bookkitg01-main/78462435-e884539c8511447a977c7ff070e7f2cf/book/page?code=89628511)
+🚧 Work in progress: I am currently rewriting this application from scratch using a modern, standard tech stack (React, Material UI, Express.js, MongoDB). I will link the new repository here once the initial version is ready!
